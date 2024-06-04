@@ -14,7 +14,7 @@ A list of projects made with HydePHP - can it get any more awesome?
 
 ### User-made sites
 
-- None yet!
+- [Dan Mason](https://danielmason.co.uk) - Personal website and blog
 
 ## Contributing
 
