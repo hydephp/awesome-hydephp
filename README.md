@@ -6,10 +6,15 @@ A list of projects made with HydePHP - can it get any more awesome?
 
 <!-- As this list grows, we may want to add categories to it. -->
 
+### First Party
+
 - [HydePHP](https://hydephp.com) - The official website of HydePHP
 - [HydePHP Blog](https://hydephp.com/posts) - The official blog of HydePHP
 - [HydePHP Documentation](https://hydephp.com/docs) - The official documentation of HydePHP
 
+### User-made sites
+
+- None yet!
 
 ## Contributing
 
